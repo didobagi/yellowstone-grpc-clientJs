@@ -1,0 +1,4 @@
+node_modules
+
+# Do not include automatically generated files.
+src/grpc/*.ts
